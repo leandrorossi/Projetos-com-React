@@ -1,0 +1,44 @@
+[
+    {
+        "id": "Veneza",
+        "titulo": "Veneza, Tour em 5 dias",
+        "preco": "R$ 2.999",
+        "descricao": "Veneza, a capital da região de Vêneto, no norte da Itália, é formada por mais de 100 pequenas ilhas em uma lagoa no Mar Adriático. A cidade não tem estradas, apenas canais (como a via Grand Canal), repletos de palácios góticos e renascentistas. Na praça central, Piazza San Marco, ficam a Basílica de São Marcos, coberta de mosaicos bizantinos, e o campanário, com vista para os telhados vermelhos da cidade.",
+        "imagem": "https://cdn.pixabay.com/photo/2015/09/02/12/50/grand-canal-918699_960_720.jpg"
+    },
+    {
+        "id": "Toquio",
+        "titulo": "Tóquio, Tour em 6 dias",
+        "preco": "R$ 3.499",
+        "descricao": "Tóquio, a movimentada capital do Japão, combina o estilo ultramoderno com o tradicional, desde arranha-céus iluminados por neon a templos históricos. O opulento santuário xintoísta Meiji é conhecido por seu altíssimo portão e pelas florestas circundantes. O Palácio Imperial fica localizado em meio a jardins públicos. Os muitos museus da cidade oferecem exposições que variam de arte clássica (no Museu Nacional de Tóquio) a um teatro kabuki reconstruído (no Museu Edo-Tokyo).",
+        "imagem": "https://cdn.pixabay.com/photo/2015/03/09/18/23/city-666107__340.jpg"
+    },
+    {
+        "id": "Toronto",
+        "titulo": "Toronto, Tour em 6 dias",
+        "preco": "R$ 3.199",
+        "descricao": "Toronto, a capital da província de Ontário, é uma grande cidade canadense localizada ao longo da costa noroeste do Lago Ontário. Ela é uma metrópole dinâmica com um centro de arranha-céus imponentes, todos ofuscados pela famosa Torre CN. Toronto também tem muitos espaços verdes, incluindo desde o oval Queen’s Park até o High Park, com 400 acres de área, além de trilhas, instalações esportivas e um jardim zoológico.",
+        "imagem": "https://cdn.pixabay.com/photo/2017/05/09/03/47/buildings-2297210__340.jpg"
+    },
+    {
+        "id": "Amsterdan",
+        "titulo": "Amsterdan, Tour em 10 dias",
+        "preco": "R$ 4.099",
+        "descricao": "Amsterdã é a capital da Holanda, conhecida por seu patrimônio artístico, um elaborado sistema de canais e casas estreitas com telhados de duas águas, legados da era dourada do século XVII na cidade. O bairro de museus abriga o Museu Van Gogh, o Rijksmuseum, com obras de Rembrandt e Vermeer, e o Stedelijk, que privilegia a arte moderna. O ciclismo é uma característica essencial da cidade, que tem grande quantidade de ciclovias.",
+        "imagem": "https://cdn.pixabay.com/photo/2017/08/25/23/22/canal-2681853__340.jpg"
+    },
+    {
+        "id": "Roma",
+        "titulo": "Roma e Milão, Tour em 15 dias",
+        "preco": "R$ 4.299",
+        "descricao": "Roma, a capital da Itália, é uma cidade cosmopolita, enorme, com quase 3.000 anos de arte, arquitetura e cultura influentes no mundo todo e à mostra. Ruínas antigas como o Fórum e o Coliseu evocam o poder do antigo Império Romano. A Cidade do Vaticano, sede da Igreja Católica Romana, tem a Basílica de São Pedro e os museus do Vaticano, que abrigam obras-primas como os afrescos da Capela Sistina de Michelângelo. E Milão, uma metrópole na região da Lombardia ao norte da Itália, é uma capital mundial da moda e do design. Cidade da bolsa de valores nacional, trata-se de um centro financeiro também conhecido pelas suas lojas e pelos seus restaurantes sofisticados. A catedral Gothic Duomo di Milano e o convento Santa Maria delle Grazie, onde está o mural de Leonardo da Vinci 'A Última Ceia', são testemunhas de séculos de arte e cultura.",
+        "imagem": "https://cdn.pixabay.com/photo/2017/04/26/18/32/tiber-bridge-2263361__340.jpg"
+    },
+    {
+        "id": "Paris",
+        "titulo": "Paris, Tour em 7 dias",
+        "preco": "R$ 3.699",
+        "descricao": "Paris, a capital da França, é uma importante cidade europeia e um centro mundial de arte, moda, gastronomia e cultura. Sua paisagem urbana do século XIX é cortada por avenidas largas e pelo rio Sena. A cidade é conhecida por monumentos como a Torre Eiffel e a Catedral de Notre-Dame, uma construção gótica do século XII, sendo famosa também pela cultura dos cafés e por lojas de estilistas famosos na Rue du Faubourg Saint-Honoré.",
+        "imagem": "https://cdn.pixabay.com/photo/2018/04/25/09/26/eiffel-tower-3349075__340.jpg"
+    }
+]
