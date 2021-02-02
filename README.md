@@ -1,70 +1,112 @@
-# Getting Started with Create React App
+<h1 align="center"> Projetos Utilizando React.JS</h1>
+<p align="center">Esse projeto se utiliza de alguns exemplos utilizando o React.JS.</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  <img alt="Licenca" src="https://img.shields.io/static/v1?label=licenca&message=MIT&color=brightgreen1&style=for-the-badge"/>
+  <img alt="Progresso do Projeto" src="https://img.shields.io/static/v1?label=progresso&message=Não Concluído&color=red1&style=for-the-badge"/>
+  <img alt ="Numero de Linguagens" src="https://img.shields.io/static/v1?label=linguagens&message=3&color=brightgreen1&style=for-the-badge"/>
+  <img alt="Tamanho do Repositorio" src="https://img.shields.io/static/v1?label=tamanho-do-repo&message=370kb&color=blue&style=for-the-badge"/>
+</p>
 
-## Available Scripts
+Tabela de conteúdos
+=================
+<!--ts-->
+   * [Sobre o projeto](#-sobre-o-projeto)
+   * [Layout](#-layout)
+   * [Como executar o projeto](#-como-executar-o-projeto)
+     * [Pré-requisitos](#pré-requisitos)
+     * [Rodando a aplicação](#user-content--rodando-a-aplicação)
+   * [Tecnologias](#-tecnologias)
+   * [Autor](#-autor)
+   * [Licença](#user-content--licença)
+<!--te-->
 
-In the project directory, you can run:
+## 💻 Sobre o Projeto
 
-### `yarn start`
+Esse projeto engloba alguns exemplos de aplicações, todos utilizando o React.JS. Ele possui uma página principal e a partir dela você navega pelos exemplos criados.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## 🎨 Layout
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Página Principal:
 
-### `yarn test`
+<p align="left">
+  <img alt="Principal" title="#Principal" src="./assets/Principal.webp" width="700px">
+</p>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Contador: 
 
-### `yarn build`
+<p align="left">
+  <img alt="Contador" title="#Contador" src="./assets/Contador.webp" width="600px">
+</p>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Tour: 
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<p align="left">
+  <img alt="Tour" title="#Tour" src="./assets/Tour.webp" width="600px">
+</p>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 💿 Como executar o projeto
 
-### `yarn eject`
+### Pré-requisitos
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Para rodar essa aplicação certifique que você tenha o [Git](https://git-scm.com) e o [Node.js](https://nodejs.org/en/) instalados. Um editor de texto como [VSCode](https://code.visualstudio.com/) caso queira visualizar melhor o código.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Rodando a aplicação
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Utilizando npm
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+```bash
+# Clone este repositório
+$ git clone https://github.com/leandrorossi/Projetos-com-React.git
 
-## Learn More
+# Acesse a pasta do projeto no terminal/cmd
+$ cd Projetos-com-React
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+# Instale as dependências
+$ npm install
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+# Execute a aplicação em modo de desenvolvimento
+$ npm start
 
-### Code Splitting
+# O servidor inciará na porta:3000 - acesse http://localhost:3000
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Utilizando yarn
 
-### Analyzing the Bundle Size
+```bash
+# Clone este repositório
+$ git clone https://github.com/leandrorossi/Projetos-com-React.git
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+# Acesse a pasta do projeto no terminal/cmd
+$ cd Projetos-com-React
 
-### Making a Progressive Web App
+# Instale as dependências
+$ yarn install
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+# Execute a aplicação em modo de desenvolvimento
+$ yarn start
 
-### Advanced Configuration
+# O servidor inciará na porta:3000 - acesse http://localhost:3000
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## 🧰 Tecnologias
 
-### Deployment
+As seguintes tecnologias foram usadas para a construção do projeto:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+- **[HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)**
+- **[CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)**
+- **[JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)**
+- **[React](https://pt-br.reactjs.org/)**
+- **[React-Router](https://reactrouter.com/)**
 
-### `yarn build` fails to minify
+## 👤 Autor
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<img src="https://avatars2.githubusercontent.com/u/65093597?s=60&v=4" width="100px;" alt="avatar"/>
+<b>Leandro U. Rossi</b>
+
+ [![Linkedin Badge](https://img.shields.io/badge/-Leandro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandro-rossi-4769ab1a6/)](https://www.linkedin.com/in/leandro-rossi-4769ab1a6/)
+
+
+## 📝 Licença
+
+Esse projeto está sobe a licença [MIT](./LICENSE).
