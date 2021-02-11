@@ -44,13 +44,8 @@ class Contador extends React.Component {
         document.title = "Contador";
         document.body.style.background = "#4f5b66";
         return (
-<<<<<<< HEAD
-            <div className="containerContador">
-                <div className="sub-container">
-=======
             <div className="contador__container-contador">
                 <div className="contador__sub-container">
->>>>>>> 301e217 (Criacao do buscador de repositorio e algumas alteracoes no projeto)
                     <h1>Contador</h1>
                     <label>Passo</label>
                     <input type="text" value={this.state.passo} onChange={this.mudaPasso}></input>

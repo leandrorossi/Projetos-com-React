@@ -30,25 +30,12 @@ Esse projeto engloba alguns exemplos de aplicações, todos utilizando o React.J
 Página Principal:
 
 <p align="left">
-<<<<<<< HEAD
-  <img alt="Principal" title="#Principal" src="./assets/Principal.webp" width="700px">
-=======
   <img alt="Principal" title="#Principal" src="./src/logos/Principal.webp" width="700px">
->>>>>>> 301e217 (Criacao do buscador de repositorio e algumas alteracoes no projeto)
 </p>
 
 Contador: 
 
 <p align="left">
-<<<<<<< HEAD
-  <img alt="Contador" title="#Contador" src="./assets/Contador.webp" width="600px">
-</p>
-
-Tour: 
-
-<p align="left">
-  <img alt="Tour" title="#Tour" src="./assets/Tour.webp" width="600px">
-=======
   <img alt="Contador" title="#Contador" src="./src/logos/Contador.webp" width="600px">
 </p>
 
@@ -62,7 +49,6 @@ Buscador de Repositorio:
 
 <p align="left">
   <img alt="Tour" title="#Tour" src="./src/logos/Repositorio.webp" width="600px">
->>>>>>> 301e217 (Criacao do buscador de repositorio e algumas alteracoes no projeto)
 </p>
 
 ## 💿 Como executar o projeto

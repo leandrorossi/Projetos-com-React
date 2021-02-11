@@ -18,11 +18,7 @@ function Tour() {
 
     if(tours.length === 0) {
         return (
-<<<<<<< HEAD
-            <div className="containerTour">
-=======
             <div className="tour__container-tour">
->>>>>>> 301e217 (Criacao do buscador de repositorio e algumas alteracoes no projeto)
                 <h1>Página de Tours</h1>
                 <p>Não há tours disponíveis</p>
                 <hr/>
@@ -31,11 +27,7 @@ function Tour() {
         )
     }
     return (
-<<<<<<< HEAD
-        <div className="containerTour">
-=======
         <div className="tour__container-tour">
->>>>>>> 301e217 (Criacao do buscador de repositorio e algumas alteracoes no projeto)
             <h1>Página de Tours</h1>
             <p>Tours Disponíveis</p>
             <hr/>
