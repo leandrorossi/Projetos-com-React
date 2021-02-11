@@ -3,7 +3,7 @@
 
 <p align="center">
   <img alt="Licenca" src="https://img.shields.io/static/v1?label=licenca&message=MIT&color=brightgreen1&style=for-the-badge"/>
-  <img alt="Progresso do Projeto" src="https://img.shields.io/static/v1?label=progresso&message=Não Concluído&color=red1&style=for-the-badge"/>
+  <img alt="Progresso do Projeto" src="https://img.shields.io/static/v1?label=progresso&message=Nao-Concluido&color=red&style=for-the-badge"/>
   <img alt ="Numero de Linguagens" src="https://img.shields.io/static/v1?label=linguagens&message=3&color=brightgreen1&style=for-the-badge"/>
   <img alt="Tamanho do Repositorio" src="https://img.shields.io/static/v1?label=tamanho-do-repo&message=370kb&color=blue&style=for-the-badge"/>
 </p>
