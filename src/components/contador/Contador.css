@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .containerContador {
     display: flex;
     justify-content: center;
@@ -8,25 +9,48 @@
 
 
 .sub-container {
+=======
+.contador__container-contador {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.contador__sub-container {
+>>>>>>> 301e217 (Criacao do buscador de repositorio e algumas alteracoes no projeto)
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
     align-items: center;
+<<<<<<< HEAD
     width: 40%;
     height: 25em;
     border: 3px solid #65737e;
     border-radius: 1em;
+=======
+    width: 700px;
+    border: 3px solid #65737e;
+    border-radius: 16px;
+>>>>>>> 301e217 (Criacao do buscador de repositorio e algumas alteracoes no projeto)
     box-shadow: 0 0 8px #000;
     background-color: #a7adba;
 }
 
+<<<<<<< HEAD
 .sub-container h1 {
     font-size: 3em;
     margin-bottom: 0.2em;
+=======
+.contador__sub-container h1 {
+    font-size: 45px;
+    margin-top: 10px;
+>>>>>>> 301e217 (Criacao do buscador de repositorio e algumas alteracoes no projeto)
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-weight: 400;
 }
 
+<<<<<<< HEAD
 .sub-container label {
     display: block;
     margin-top: 1em;
@@ -97,5 +121,63 @@
         width: 5em;
         margin: 1.2em auto 1em;
         height: 2em;
+=======
+.contador__sub-container label {
+    display: block;
+    margin-top: 30px;
+    font-size: 32px;
+    text-align: center;
+}
+
+.contador__sub-container input {
+    width: 80px;
+    padding: 8px;
+    margin-top: 5px;
+    font-size: 16px;
+    text-align: center;
+    border: none;
+    border-radius: 3px;
+}
+
+.buttons button {
+    width: 120px;   
+    padding: 12px;
+    margin: 20px 16px 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+@media screen and (max-width: 800px) {
+    .contador__sub-container {
+        width: 500px;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    
+    .contador__sub-container {
+        width: 80%;
+    }
+    
+    .contador__sub-container h1 {
+        font-size: 30px;
+    }
+
+    .contador__sub-container label {
+        font-size: 25px;
+    }
+
+    .contador__sub-container input {   
+        font-size: 14px;
+    }
+
+    .buttons button {
+        display: block;
+        padding: 10px;
+        margin-bottom: 20px;
+>>>>>>> 301e217 (Criacao do buscador de repositorio e algumas alteracoes no projeto)
     }
 }

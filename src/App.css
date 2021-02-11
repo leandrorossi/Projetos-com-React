@@ -1,9 +1,14 @@
+<<<<<<< HEAD
 .header {
+=======
+.app__header {
+>>>>>>> 301e217 (Criacao do buscador de repositorio e algumas alteracoes no projeto)
     display: flex;
     justify-content: center;
     align-items: center;
     background-color: #1e1f26;
     color: #fff;
+<<<<<<< HEAD
     margin-top: -0.1em;
     margin-bottom: 10em;
     height: 22em;
@@ -12,10 +17,20 @@
 
 .header h1 {
     font-size: 3em;
+=======
+    margin-bottom: 150px;
+    height: 450px;
+    text-align: center;
+}
+
+.app__header h1 {
+    font-size: 50px;
+>>>>>>> 301e217 (Criacao do buscador de repositorio e algumas alteracoes no projeto)
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-weight: 300;
 }
 
+<<<<<<< HEAD
 .cards {
     display: flex;
     flex-wrap: wrap;
@@ -23,11 +38,21 @@
 }
 
 .divisor{
+=======
+.app__cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.app__divisor {
+>>>>>>> 301e217 (Criacao do buscador de repositorio e algumas alteracoes no projeto)
     display: flex;
     align-items: center;
     font-family: Arial, Helvetica, sans-serif;
  }
  
+<<<<<<< HEAD
  .divisor hr{
     background: #aaaaaa;
     flex: 1;
@@ -35,4 +60,13 @@
     margin-right: 2em;
     height: 0.2em;
     border: none;
+=======
+.app__divisor hr{
+    background: #aaa;
+    flex: 1;
+    margin: 50px 15px;
+    height: 5px;
+    border: none;
+    border-radius: 5px;
+>>>>>>> 301e217 (Criacao do buscador de repositorio e algumas alteracoes no projeto)
  }

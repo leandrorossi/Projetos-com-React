@@ -7,7 +7,11 @@ function CardTour(props) {
     const [leiaMais, setLeiaMais] = useState(false);
 
     return (
+<<<<<<< HEAD
         <div className="cardTour">
+=======
+        <div className="tour__card-tour">
+>>>>>>> 301e217 (Criacao do buscador de repositorio e algumas alteracoes no projeto)
             <img src={props.imagem} alt={props.titulo}/>
             <p id="titulo">{props.titulo}</p>
             <p id="preco">{props.preco}</p>

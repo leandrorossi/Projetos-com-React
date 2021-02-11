@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .card {
     margin: 3em 4em 2em;
     width: 25em;
@@ -25,4 +26,40 @@ img {
     width: 100%;
     height: 18em;
     border-bottom: 1px solid #000;
+=======
+.card__card {
+    margin: 10px 30px 50px;
+    width: 400px;
+    border: 1px solid;
+    border-radius: 4px;
+    box-shadow: 0 0 2px #444;
+    background-color: #ddd;
+}
+
+.card__card:hover {
+    box-shadow: 0 0 3px #000;
+}
+
+.card__link {
+    text-decoration: none;
+}
+
+.card__card p {
+    color: #000;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 12px;
+}
+
+.card__card img {
+    width: 100%;
+    height: 275px;
+    border-bottom: 1px solid #000;
+}
+
+@media screen and (max-width: 450px) {
+    .card__card img {
+        height: 200px;
+    }
+>>>>>>> 301e217 (Criacao do buscador de repositorio e algumas alteracoes no projeto)
 }

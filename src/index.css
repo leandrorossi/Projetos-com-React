@@ -1,10 +1,25 @@
 * {
+<<<<<<< HEAD
+=======
+    margin: 0;
+    padding: 0;
+    outline: 0;
+>>>>>>> 301e217 (Criacao do buscador de repositorio e algumas alteracoes no projeto)
     box-sizing: border-box;
 }
 
 body {
+<<<<<<< HEAD
     margin: 0;
     background-color: #cccccc;
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+=======
+    background-color: #ccc;
+}
+
+html, body, #root {
+    height: 100% 
+}
+>>>>>>> 301e217 (Criacao do buscador de repositorio e algumas alteracoes no projeto)

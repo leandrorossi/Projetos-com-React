@@ -1,0 +1,26 @@
+.repositorio__card-list {
+  display: flex;
+  align-items: center;
+}
+
+.repositorio__card-list strong {
+  font-size: 20px;
+}
+
+.repositorio__card-list p {
+  color: #bbb;
+  margin: 4px 0;
+}
+
+.repositorio__card-list a {
+  margin-right: 10px;
+}
+
+.repositorio__card-list button {
+  color: #1b5a42;
+  border: 0;
+  background-color: transparent;
+  font-weight: bold;
+  font-size: 14px;
+  cursor: pointer;
+}

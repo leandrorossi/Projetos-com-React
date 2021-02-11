@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+.repositorio__container-repositorio {
+  display: flex;
+  margin: 20px auto;
+  max-width: 1200px;
+  padding: 60px 20px;
+  font-family: Roboto, sans-serif;
+}
+
+@media screen and (max-width: 800px) {
+  .repositorio__container-repositorio {
+    flex-direction: column;
+  }
+
+  .repositorio__container-repositorio aside {
+    width: 100%;
+  }
+
+  .repositorio__container-repositorio main {
+    margin: 20px 0;
+  }
+}

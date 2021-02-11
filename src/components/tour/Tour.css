@@ -1,18 +1,32 @@
+<<<<<<< HEAD
 .containerTour {
+=======
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+
+.tour__container-tour {
+>>>>>>> 301e217 (Criacao do buscador de repositorio e algumas alteracoes no projeto)
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
 }
 
+<<<<<<< HEAD
 .containerTour h1 {
     margin-top: 2em;
     font-size: 4em;
     font-family: 'Satisfy', cursive;
+=======
+.tour__container-tour h1 {
+    margin-top: 2em;
+    font-size: 4em;
+    font-family: 'Satisfy', sans-serif;
+>>>>>>> 301e217 (Criacao do buscador de repositorio e algumas alteracoes no projeto)
     font-weight: 400;
     text-align: center;
 }
 
+<<<<<<< HEAD
 .containerTour p {
     margin-top: 1em;
     font-size: 1.3em;
@@ -20,6 +34,15 @@
 
 .containerTour hr {
     margin-top: -1em;
+=======
+.tour__container-tour p {
+    margin-top: 1em;
+    font-size: 1.3em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.tour__container-tour hr {
+>>>>>>> 301e217 (Criacao do buscador de repositorio e algumas alteracoes no projeto)
     width: 6em;
     height: 0.8em;
     background-color: red;
@@ -37,10 +60,18 @@
     border: none;
     border-radius: 0.3em;
     outline: 0;
+<<<<<<< HEAD
 }
 
 @media screen and (max-width: 450px) {
     .containerTour h1 {
+=======
+    cursor: pointer;
+}
+
+@media screen and (max-width: 450px) {
+    .tour__container-tour h1 {
+>>>>>>> 301e217 (Criacao do buscador de repositorio e algumas alteracoes no projeto)
         font-size: 3em;
     }
 
